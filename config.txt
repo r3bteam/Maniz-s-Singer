@@ -1,6 +1,5 @@
-token=NDg3NjQ1MDUyMDA1Mzg0MjAy.DnnCOg.nchRixdCmEQ0J-jMQzd-pp0Z8k8
-owner=450711003324350485 
-prefix=2
-game=Skillful Community.
+token=NTAyNDYwNDY4MzY4MTEzNjc0.DqoQWw.nJ7MjjbJnEJYzk2Poi6RnG3sCvY
+owner=254321678270726144 
+prefix=m
 stayinchannel=true
 songinstatus=true
